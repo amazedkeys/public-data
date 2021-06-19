@@ -1,0 +1,163 @@
+[
+
+    {
+        "title": "Blood Donation Script",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/blood_donation_script_a.mp3",
+        "description": "A RedCross script asking people to donate blood."
+    },
+    {
+        "title": "Character Dialog A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_a.mp3",
+        "description": "Some character dialog."
+    },
+    {
+        "title": "Chracter Dialog B",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_b.mp3",
+        "description": "Some more character dialog."
+    },
+    {
+        "title": "Character Dialog C",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_c.mp3",
+        "description": "Even more character dialog."
+    },
+    {
+        "title": "Chracter Dialog D",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_d.mp3",
+        "description": "Yet more character dialog."
+    },
+    {
+        "title": "Chracter Dialog E",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_e.mp3",
+        "description": "Still more character dialog."
+    },
+    {
+        "title": "Character Dialog F",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_f.mp3",
+        "description": "Somehow more character dialog."
+    },
+    {
+        "title": "Character Dialog G",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/character_dialog_g.mp3",
+        "description": "Last chunk of chracter dialog ... for now."
+    },
+    {
+        "title": "Cosmos Naration",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/cosmos_narration.mp3",
+        "description": "A naration I recorded about planet Earth in a softer voice."
+    },
+    {
+        "title": "Dialog B",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/dialog_example_b.mp3",
+        "description": "An example of dialog"
+    },
+    {
+        "title": "Dramatic Monolog A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/dramatic_monolog_a.mp3",
+        "description": "Just a monolog I recorded based off an Anime script"
+    },
+    {
+        "title": "Fairy Tale A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/fairy_tale_a.mp3",
+        "description": "A segment of a fake tale I read"
+    },
+    {
+        "title": "Fairy Tale B",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/fairy_table_b.mp3",
+        "description": "Another segment of a tale I read off"
+    },
+    {
+        "title": "Half Dialog A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/half_dialog-a.mp3",
+        "description": "One side of a two person dialog"
+    },
+    {
+        "title": "Monolog Example C",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/monolog_example_c.mp3",
+        "description": "A monolog I recorded off as an example"
+    },
+    {
+        "title": "Quote A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/quote_reading_a.mp3",
+        "description": "A reading of a quote"
+    },
+    {
+        "title": "Quote B",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/quote_reading_b.mp3",
+        "description": "A reading of another quote"
+    },
+    {
+        "title": "Quote C",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/quote_reading_c.mp3",
+        "description": "Yet another reading of a quote"
+    },
+    {
+        "title": "Quote D",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/quote_reading_d.mp3",
+        "description": "Here's another reading of a quote"
+    },
+    {
+        "title": "Random Voice A",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/random_voice_a.mp3",
+        "description": "An example of a random voice - just done for fun!"
+    },
+    {
+        "title": "Random Voice B",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/random_voice_b.mp3",
+        "description": "Another random voice - again, just done for fun!"
+    },
+    {
+        "title": "Ready Player One Sample",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/ready_player_one_sample.mp3",
+        "description": "A sample of narration from Ready Player One"
+    },
+    {
+        "title": "The Raven Reading",
+        "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/the_raven_sample.mp3",
+        "description": "A reading of an excerpt from The Raven"
+    },
+    {
+      "title": "Game Host 1",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-game-host-1.mp3",
+      "description": "An example game host script."
+    },
+    {
+      "title": "Game Host 1 (British)",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-game-host-1-british.mp3",
+      "description": "An variation of the game host script I read, but in a (pretty bad) British accent."
+    },
+    {
+      "title": "Infographic Example",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-infographic-2.mp3",
+      "description": "An example infographic script I read off"
+    },
+    {
+      "title": "Character Scene 1 - Math Problem",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-math-1.mp3",
+      "description": "A simple dialog I read off that I found online"
+    },
+    {
+      "title": "Podcast 1",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-podcast-1.mp3",
+      "description": "A podcast script that I read off"
+    },
+    {
+      "title": "Podcast 2",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-podcast-2.mp3",
+      "description": "Another section of a podcast script that I read off"
+    },
+    {
+      "title": "Podcast 3",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-podcast-3.mp3",
+      "description": "Yet another section of a podcast script I read off"
+    },
+    {
+      "title": "Random Samples 1",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-random-1.mp3",
+      "description": "A collection of random voice bites I recorded"
+    },
+    {
+      "title": "Robotic Voice Collection 1",
+      "uri": "https://cdn.amazedkeys.com/roblox/coderboy14/va-samples/va-sample-alex-robotic-voice.mp3",
+      "description": "A collection of my robotic voice, that people have said is good. You can be the judge of that!"
+    }
+  ]
